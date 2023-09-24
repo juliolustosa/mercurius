@@ -14,7 +14,6 @@ require (
 	github.com/go-macaron/cache v0.0.0-20151013081102-561735312776
 	github.com/go-macaron/gzip v0.0.0-20160222043647-cad1c6580a07
 	github.com/go-macaron/i18n v0.0.0-20190131234336-56731837a73b
-	github.com/go-macaron/inject v0.0.0-20160627170012-d8a0b8677191 // indirect
 	github.com/go-macaron/jade v0.0.0-20151014040223-65ef729dab62
 	github.com/go-macaron/session v0.0.0-20190131233854-0a0a789bf193
 	github.com/go-macaron/toolbox v0.0.0-20180818072302-a77f45a7ce90
@@ -26,10 +25,9 @@ require (
 	github.com/lib/pq v1.2.0
 	github.com/novatrixtech/cryptonx v0.0.0-20180519121813-ea6eb897e271
 	github.com/prometheus/client_golang v1.0.0
-	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945 // indirect
 	gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e // indirect
-	gopkg.in/ini.v1 v1.44.0
-	gopkg.in/macaron.v1 v1.3.2
+	gopkg.in/ini.v1 v1.46.0
+	gopkg.in/macaron.v1 v1.3.7
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 	gopkg.in/redis.v2 v2.3.2 // indirect
 )
